@@ -8,4 +8,3 @@
 - 📫 How to reach me: tanmaykad16@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Curious about everything :)
--->
