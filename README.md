@@ -10,6 +10,6 @@
 <li>😄 Pronouns: He/His</li>
 <li>⚡ Fun fact: Curious about everything :)</li>
 </ul>
-
+<hr>
 
 ![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay-d&theme=algolia&show_icons=true)
