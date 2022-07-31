@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<hr>
 - 🔭 I’m currently working on web development projects using MERN Stack
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything related to web development
