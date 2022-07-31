@@ -8,4 +8,6 @@
 - 📫 How to reach me: tanmaykad16@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Curious about everything :)
+
+
 ![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay-d&theme=algolia&show_icons=true)
